@@ -37,4 +37,5 @@
 ![alt-text](https://github.com/koreatechh/planets2/blob/master/image1.PNG "Logo Title Text 1")
 
 
+![alt-text](https://github.com/koreatechh/planets2/blob/master/image2.PNG "Logo Title Text 1")
 
