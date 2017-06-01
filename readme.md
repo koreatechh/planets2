@@ -1,5 +1,5 @@
 
-=======
+
 # **컴퓨터 시스템 기초설계 2조**
 ---
  박찬규(koreatechh)
@@ -22,7 +22,7 @@
 
 
 >## **2.시스템 개요**
-저희 *controllable shower*는 사용자의 원하는 온도를 정확하고 빠르게 설정하여 
+>저희 *controllable shower*는 사용자의 원하는 온도를 정확하고 빠르게 설정하여 
 물온도조절 실패로 인한 화상 방지 및 물 사용 낭비를 방지하는 IoT입니다.~~화상
 위험에 쉽게 노출 되어 있는 아이들을 위해 잠금 장치도 설치되어 있습니다.~~
 
@@ -34,7 +34,7 @@
 
 >## **3.기존 관련 사례**
 
-![alt-text](https://github.com/koreatechh/planets2/blob/master/image1.PNG "Logo$
+![alt-text](https://github.com/koreatechh/planets2/blob/master/image1.PNG "Logo Title Text 1")
 
 
 
