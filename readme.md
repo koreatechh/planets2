@@ -34,7 +34,7 @@
 
 >## **3.기존 관련 사례**
 
-##샤워 스마트디바이스,EvaDrop
+# 샤워 스마트디바이스,EvaDrop
 
 ![alt-text](https://github.com/koreatechh/planets2/blob/master/image1.PNG "Logo Title Text 1")
 
@@ -60,7 +60,7 @@
 </tbody>
 </table>
 
-##Shower System Digital Shower Control Shower Mixer
+# Shower System Digital Shower Control Shower Mixer
 
 ![alt-text](https://github.com/koreatechh/planets2/blob/master/image2.PNG "Logo Title Text 1")
 
