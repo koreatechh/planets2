@@ -38,7 +38,7 @@
 
 ![alt-text](https://github.com/koreatechh/planets2/blob/master/image1.PNG "Logo Title Text 1")
 
-**[<u>상품설명</u>]**
+**[<u>상품설명</u>]** <Enter>
  EvaDrop이라고 불리는 이기기는 개인이 샤워를 하다가 비누를 찾기위해, 면도기를
 집기 위해 움직이면 이 움직임을 LEDs를 이용한 센서가 감지하고 샤워기에서 멀어지
 면 그에 따라 물의 양을 조절하는 기기로써, 개인이 샤워기에서 얼마나 멀어지는 가에
@@ -72,7 +72,7 @@
 ![alt-text](https://github.com/koreatechh/planets2/blob/master/image2.PNG "Logo Title Text 1")
 
 
-**[<u>상품설명</u>]**
+**[<u>상품설명</u>]** <Enter>
 이 기기는 폴리카보네이트 재질로 구성된, 실시간으로 샤워 시간, 물의 온도, 물의  흐름
 을 시각화 해주어 사용자들에게 제공해 주는 기기로써 가운데에 있는 버튼을 돌림으로
 물의 온도 조절이 가능하다. 스크린은 수증기의 영향을 받지 않게 설계 되었으며
