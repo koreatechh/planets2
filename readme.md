@@ -5,7 +5,7 @@
  박찬규(koreatechh)
  박윤기(younkipark)
  강민구(MinguKang9552)
- 김영
+ 김영(young00)
 
 >## **1.필요성**
 >- 평상시 우리는 샤워나 세수를 할 때 대게 온수를 사용하며, 원하는 물의 온도로 바꾸기
@@ -34,8 +34,15 @@
 
 >## **3.기존 관련 사례**
 
+##샤워 스마트디바이스,EvaDrop
+
 ![alt-text](https://github.com/koreatechh/planets2/blob/master/image1.PNG "Logo Title Text 1")
 
+**[배경기술]**
+- 움직임 감지 LEDs 센서
+- 물수압 조절 기술
+- 어플리케이션과의 연동 및 커뮤니티
+- 자동 알림 기능
 <table>
 <thead>
 <tr>
@@ -53,7 +60,16 @@
 </tbody>
 </table>
 
+##Shower System Digital Shower Control Shower Mixer
+
 ![alt-text](https://github.com/koreatechh/planets2/blob/master/image2.PNG "Logo Title Text 1")
+
+**[배경기술]**
+- 물의 온도
+- 물의 흐름
+- 샤워시간 측정 센서기술
+- 자동 절수 기능
+- 물 조정 기능 
 
 <table>
 <thead>
